@@ -4,7 +4,6 @@
  * Autor: Profesor Entorno Desarrollo
  */
 public class Game {
-
 	private Parser parser;
 
 	public Game() {
